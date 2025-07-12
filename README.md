@@ -1,38 +1,51 @@
-# global-superstore-tableau-dashboard
-"Interactive sales analysis dashboard using Tableau and the Global Superstore dataset."
+# 📊 Global Superstore – Descriptive Analysis
 
-# Global Superstore Tableau Dashboard
-
-## 📊 Project Overview
-This project uses Tableau to analyze the **Global Superstore dataset**, delivering key insights on sales performance, profitability, and customer segmentation across regions, categories, and time periods.
-
-## 🔍 Key Visualizations
-- Sales & Profit by Region and Category
-- Top-Performing Sub-Categories and Countries
-- Customer Segments by Sales Behavior
-- Year-over-Year Profit Trends
-
-## 📁 Files Included
-- `Global_Superstore_Dashboard.twbx` – Tableau Workbook
-- `dashboard_screenshots/` – Visual snapshots of the dashboard
-- `README.md` – Project description
-- `data/` – (Optional) Dataset or link to source
-
-## 🛠 Tools & Skills
-- **Tableau** – Dashboard creation & storytelling
-- **Excel** – Data cleaning & prep
-- **Data Analysis** – Exploratory and visual analysis
-- **Business Intelligence** – Performance insights and recommendations
-
-## 📂 Dataset Source
-[Global Superstore Dataset on Kaggle](https://www.kaggle.com/datasets/juhi1994/global-superstore)
-
-## 💡 Insights
-This dashboard helps identify:
-- High-revenue regions and categories
-- Product lines with profitability challenges
-- Opportunities for market expansion
+## 🧾 Overview
+This project explores and visualizes sales performance using the **Global Superstore** dataset. The goal was to uncover trends in sales, profits, and customer segments using **Tableau** dashboards.
 
 ---
 
-Feel free to clone, explore, or improve this project!
+## 💼 Objectives
+- Understand sales performance across regions, segments, and product categories
+- Identify top-performing markets and product lines
+- Visualize patterns to support strategic retail decisions
+
+---
+
+## 📊 Tools & Technologies
+- **Tableau** – For interactive visualizations
+- **Excel** – Data preparation
+- **PowerPoint/PDF** – For summary presentation (if available)
+
+---
+
+## 📈 Key Insights
+- Central and West regions dominate in sales but differ in profitability
+- Office Supplies perform well overall, especially in B2B segment
+- High discounts are often linked to negative profit margins
+
+---
+
+## 📸 Visuals
+
+### Dashboard 1
+![Sales by Region](Dashboard 1.png)
+
+### Dashboard 2
+![Category Trends](Dashboard 2.png)
+
+### Dashboard 2
+![Category Trends](Dashboard 3.png)
+---
+
+## 📁 Files
+- `dashboard_screenshot.png` – Main dashboard view
+- `superstore_dashboard.twbx` – Tableau packaged workbook
+- `presentation.pdf` – Summary of key insights *(optional)*
+
+---
+
+## ✅ Next Steps
+- Build a predictive model on top of sales trends
+- Combine this with forecast and customer segmentation analysis
+
