@@ -29,13 +29,13 @@ This project explores and visualizes sales performance using the **Global Supers
 ## 📸 Visuals
 
 ### Dashboard 1
-![Sales by Region](Dashboard 1.png)
+![Sales by Region](Dashboard1.png)
 
 ### Dashboard 2
-![Category Trends](Dashboard 2.png)
+![Category Trends](Dashboard2.png)
 
 ### Dashboard 2
-![Category Trends](Dashboard 3.png)
+![Category Trends](Dashboard3.png)
 ---
 
 ## 📁 Files
