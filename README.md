@@ -35,7 +35,8 @@ This project explores and visualizes sales performance using the **Global Supers
 ![Category Trends](Dashboard2.png)
 
 ### Dashboard 2
-![Category Trends](Dashboard3.png)
+
+![Category Trends 2](Dashboard3.png)
 ---
 
 ## 📁 Files
